@@ -238,7 +238,7 @@ nav.navbar.bootsnav ul.nav>li>a {
 
 nav.navbar.bootsnav ul.nav>li>a:hover,
 nav.navbar.bootsnav ul.nav>li>a:focus {
-    color: blue;
+    color: blue;background: white;
 }
 
 nav.navbar.bootsnav ul.nav>li.active>a {
